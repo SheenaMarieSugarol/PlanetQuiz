@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="Theme.PlanetQuiz"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Status bar at the top -->
+        <item name="android:statusBarColor">#3700B3</item>
+
+        <!-- Navigation bar at the bottom -->
+        <item name="android:navigationBarColor">#3700B3</item>
+
+        <!-- White status-bar icons -->
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- White navigation-bar icons -->
+        <item name="android:windowLightNavigationBar">false</item>
+
+    </style>
+
+</resources>
